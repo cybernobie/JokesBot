@@ -19,7 +19,7 @@ To set up and run the bot, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/coding-destini/JokesBot.git
+git clone https://github.com/cybernobie/JokesBot.git
 cd JokesBot
 ```
 
