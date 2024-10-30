@@ -88,6 +88,13 @@ Thank you to everyone who contributes to this project! ❤️ Contributions are 
         <sub><b>coding-destini</b></sub>
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/manshisingh07">
+        <img src="https://avatars.githubusercontent.com/manshisingh07" width="80" height="80" style="border-radius:50%;" alt="manshisingh07"/>
+        <br />
+        <sub><b>Mansi Singh</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
