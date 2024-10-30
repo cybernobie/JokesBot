@@ -46,7 +46,7 @@ BOT_TOKEN=your_bot_token
 ### 4. Run the Bot 🚀
 
 ```bash
-python bot.py
+python main.py
 ```
 
 Your bot should now be running and ready to send jokes!
