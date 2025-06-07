@@ -72,30 +72,6 @@ Thank you to everyone who contributes to this project! ❤️ Contributions are 
 
 ## Contributors ✨
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/cybernobie">
-        <img src="https://avatars.githubusercontent.com/cybernobie" width="80" height="80" style="border-radius:50%;" alt="cybernobie"/>
-        <br />
-        <sub><b>cybernobie</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/coding-destini">
-        <img src="https://avatars.githubusercontent.com/coding-destini" width="80" height="80" style="border-radius:50%;" alt="coding-destini"/>
-        <br />
-        <sub><b>coding-destini</b></sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://github.com/manshisingh07">
-        <img src="https://avatars.githubusercontent.com/manshisingh07" width="80" height="80" style="border-radius:50%;" alt="manshisingh07"/>
-        <br />
-        <sub><b>Manshi Singh</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![Contributors Hall of Fame](https://github.aryansinghnegi.dev/?repo=cybernobie/JokesBot)
 
 Happy Joking! 😄
