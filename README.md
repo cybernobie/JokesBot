@@ -53,14 +53,46 @@ Your bot should now be running and ready to send jokes!
 
 ---
 
-## Future Enhancements and To-Dos 📝
+## 📝 Features & Improvements
 
-Here are some ideas to enhance **JokesBot** in the future:
+- [ ] **Category-Specific Jokes**  
+      Add support for joke categories (e.g., Dad Jokes, Puns, Dark Humor) so users can choose their preferred type.
 
-1. **Category-Specific Jokes**: Add support for joke categories so users can choose between categories like Dad Jokes, Puns, etc.
-2. **Language Options**: Provide jokes in multiple languages.
-3. **Favorite Jokes**: Allow users to mark and retrieve their favorite jokes.
-4. **Daily Joke Subscription**: Send a joke daily to subscribed users.
+- [ ] **Interactive Inline Mode**  
+      Allow users to search and send jokes directly from Telegram inline queries.
+
+- [ ] **Language Options**  
+      Provide jokes in multiple languages to reach a broader audience.
+
+- [ ] **Favorite & History Tracking**  
+      Allow users to mark favorite jokes and view their joke history.
+
+- [ ] **Daily/Weekly Joke Subscriptions**  
+      Automatically send jokes to subscribed users at their preferred time.
+
+- [ ] **Multimedia Jokes**  
+      Support memes, images, or GIFs along with text jokes.
+
+- [ ] **User Preferences**  
+      Save user settings for personalized joke recommendations.
+
+- [ ] **Rate Jokes Feature**  
+      Enable users to rate jokes (👍 / 👎) to improve the quality of jokes served.
+
+- [ ] **Group Mode Enhancements**  
+      Improve bot functionality in groups: random joke sharing, command-based jokes, etc.
+
+- [ ] **Fallback Jokes Database**  
+      Maintain a local jokes database to ensure responses even if the API is down.
+
+- [ ] **Gamification Features**  
+      Introduce games like *Guess the Punchline* or joke leaderboards for engagement.
+
+- [ ] **Better Error Handling & Logging**  
+      Improve stability, debug logs, and resilience against API downtime.
+
+- [ ] **Admin Panel (Optional)**  
+      Create a simple dashboard for managing users, subscriptions, and API stats.
 
 ---
 
